@@ -72,6 +72,7 @@ Git | GitHub | VS Code | Postman | Figma
 * Added secure JWT authentication with NextAuth
 * Deployed frontend on Vercel and backend on Render
 * Optimized API performance and scalability
+* Implemented a chatbot using the Gemini API to generate real-time responses and improve user interaction.
 
 ---
 
