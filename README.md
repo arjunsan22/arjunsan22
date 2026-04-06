@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arjun Anil
 
-🚀 Full-Stack Web Developer | MERN Stack | Next.js | Real-Time Applications
+🚀 Full-Stack Web Developer | MERN Stack | Next.js | Real-Time Applications | Gen AI
 
 📍 Kerala, India
 📫 [arjunanil2114@gmail.com](mailto:arjunanil2114@gmail.com)
