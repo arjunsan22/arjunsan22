@@ -50,6 +50,10 @@ Docker | Jenkins (CI/CD) | Google Cloud Platform | Render | Vercel | Cloudinary
 
 Git | GitHub | VS Code | Postman | Figma
 
+### 🤖 AI & Generative AI
+
+Generative AI Integration, LLM API Integration, Prompt Engg, AI Chatbot Development
+
 ---
 
 ## 🚀 Projects
@@ -67,7 +71,7 @@ Git | GitHub | VS Code | Postman | Figma
 
 ### 💼 WorksPera — Real-Time Work Collaboration Platform
 
-**Tech:** Next.js, NextAuth (JWT), WebRTC, Socket.io, Node.js, Express.js, MongoDB Atlas
+**Tech:** Next.js, NextAuth (JWT), WebRTC, Socket.io, Node.js, Express.js, MongoDB Atlas, Gen AI
 
 * Developed a social + hiring platform (Instagram + LinkedIn concept)
 * Implemented real-time chat and peer-to-peer video calling using WebRTC
