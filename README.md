@@ -18,6 +18,8 @@ Skilled in developing responsive UIs, RESTful APIs, and real-time systems while 
 
 Strong foundation in **Data Structures & Algorithms** with a problem-solving mindset.
 
+Experience in integrating Generative AI into real-world applications using models like Google Gemini, focusing on building intelligent and user-centric features.
+
 Experienced in cloud deployment using **Docker, Google Cloud Platform, Render, and Vercel**.
 
 ---
